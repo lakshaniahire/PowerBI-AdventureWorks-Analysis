@@ -38,7 +38,6 @@ The objective is to understand sales performance, profitability, product perform
 ## 📂 Project Files
 
 * `PowerBI/` – Power BI dashboard file
-* `Screenshots/` – Dashboard screenshots
 * `README.md` – Project documentation
 
 ## 📌 Project Outcome
